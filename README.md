@@ -1,4 +1,4 @@
-#Hola People 👋
+#Hola Pipol 👋
 
 <!--
 **samuelfsanchz-dev/samuelfsanchz-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
